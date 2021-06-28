@@ -1,1 +1,6 @@
+@use "../../variables" as *;
 
+.assignment-first-button{
+ color: $color-first;
+ font-size: $fontsize-example;
+}
